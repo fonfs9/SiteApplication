@@ -1,0 +1,4 @@
+Если изначально проект не заливается на пустой репозиторий гитхаба 
+(ошибка error: failed to push some refs to):
+git pull --rebase name_remote master
+git push name_remote master
